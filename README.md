@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Repositório
 
-| [LinkedIn](https://www.linkedin.com/in/leandroadcosta/) | [E-mail](leandrocostamdc@gmail.com) |
+| [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-costa-49669a193/)](https://www.linkedin.com/in/leandro-costa-49669a193/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leandrocostamdc@gmail.com)](mailto:leandrocostamdc@gmail.com) |
 |:-------------------------------------------------------:|:----------------------------------:|
 <br>
 
